@@ -53,6 +53,6 @@
   },
   "dependencies": {
     "bluebird": "^3.4.7",
-    "glob": "^7.1.1"
+    "glob": "^9.0.0"
   }
 }
